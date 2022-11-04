@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<body>
+<div>
+<img src="https://items.s1.citilink.ru/1835079_v01_b.jpg">
+<h2>2018 Lenovo Ideapad 330 15.6"</h2>
+<p class="Lenovo">by Lenovo</p>
+
+<p class="Price">Price: $750.00</p>
+
+<p>Intel Quad Core i5 processor
+<p>15.6 inch Full HD (1920x1680) Display
+<p>8GB DDR4 RAM
+<p>256GB solid state drive
+<p>Windows 10
+<p class="buy">Buy----Add to cart</p>
+<p class="back">Back</p>
+</div>
+-------------------------------------------------------------------------------------------
+.Price{color: chocolate;}
+div{border: 2px solid black; border-radius: 10px; width: 400px;}
+.buy{color: purple}
+.back{font-style: italic;}
+img{width: 400px}
+p{display: block; background-color: cornsilk;}
+.buy:hover{color: crimson;}
+.back:hover{color: crimson}
+.Lenovo:hover{color: crimson}
